@@ -4,7 +4,7 @@
 
 <div align="left">
 
-### SSZcreate (えすえすぜっと)
+### SSZcreate（すすず）
   
 - 🏆 1.4k+ Contributions in 2025  
 - 📂 18 Public Repos  
